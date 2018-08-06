@@ -15,9 +15,9 @@
     },
     "colors": {
       "frame": [ 55, 55, 55 ],
-      "frame_inactive": [ 56, 59, 61 ],
+      "frame_inactive": [ 68, 68, 68 ],
       "frame_incognito": [ 55, 55, 55 ],
-      "frame_incognito_inactive": [ 56, 59, 61 ],
+      "frame_incognito_inactive": [ 68, 68, 68 ],
       "toolbar": [ 80, 80, 80 ],
       "tab_text": [ 255, 255, 255 ],
       "tab_background_text": [ 255, 255, 255 ],
