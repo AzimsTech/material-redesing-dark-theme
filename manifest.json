@@ -1,36 +1,36 @@
 {
-	"manifest_version": 2,
+  "manifest_version": 2,
 
-	"name": "Material Incognito Dark Theme",
-	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version": "3.0.1",
+  "name": "Material Redesign Dark Theme",
+  "description": "A dark theme for the new Google Chrome browser design.",
+  "version": "1.0.0",
 
-	"theme": {
-		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png",
-			"theme_toolbar": "images/theme_toolbar.png",
-			"theme_tab_background": "images/theme_tab_background.png",
-			"theme_tab_background_incognito": "images/theme_tab_background.png",
-			"theme_tab_background_v": "images/theme_tab_background.png"
-		},
-		"colors": {
-			"frame": [40, 43, 45],
-			"frame_inactive": [56, 59, 61],
-			"frame_incognito": [40, 43, 45],
-			"frame_incognito_inactive": [56, 59, 61],
-			"toolbar": [80, 80, 80],
-			"tab_text": [255, 255, 255],
-			"tab_background_text": [255, 255, 255],
-			"bookmark_text": [255, 255, 255],
-			"ntp_background": [48, 48, 48],
-			"ntp_text": [255, 255, 255]
-		},
-		"tints": {
-			"buttons": [0, 0, 0.85]
-		},
-		"properties": {
-			"ntp_logo_alternate": 1,
-			"ntp_background_repeat": "repeat"
-		}
-	}
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_tab_background_incognito": "images/theme_tab_background.png",
+      "theme_tab_background_v": "images/theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [ 55, 55, 55 ],
+      "frame_inactive": [ 56, 59, 61 ],
+      "frame_incognito": [ 55, 55, 55 ],
+      "frame_incognito_inactive": [ 56, 59, 61 ],
+      "toolbar": [ 80, 80, 80 ],
+      "tab_text": [ 255, 255, 255 ],
+      "tab_background_text": [ 255, 255, 255 ],
+      "bookmark_text": [ 255, 255, 255 ],
+      "ntp_background": [ 48, 48, 48 ],
+      "ntp_text": [ 255, 255, 255 ]
+    },
+    "tints": {
+      "buttons": [ 0, 0, 0.85 ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1,
+      "ntp_background_repeat": "repeat"
+    }
+  }
 }
