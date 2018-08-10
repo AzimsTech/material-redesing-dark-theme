@@ -7,6 +7,7 @@
 
   "theme": {
     "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
     },
     "colors": {
       "frame": [ 55, 55, 55 ],
